@@ -1,0 +1,10 @@
+.imgStyles{
+     width: 110px;
+}
+.text-content{
+          padding: 15px;
+          margin: 10px;
+          border: 1px solid gray;
+          width: 300px;
+          border-radius: 5px;
+}

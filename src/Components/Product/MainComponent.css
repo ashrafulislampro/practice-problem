@@ -1,0 +1,9 @@
+.imgStyle{
+          width: 150px;
+}
+.main-container{
+          border: 1px solid gray;
+          margin: 10px;
+          padding: 15px;
+          border-radius: 5px;
+}
